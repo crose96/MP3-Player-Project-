@@ -1,0 +1,7 @@
+  #first installs for GUI(tkinter), metadata(mutagen), and music playing(pygame) 
+import pygame
+from tkinter import *
+
+root = Tk()
+
+root.mainloop()
